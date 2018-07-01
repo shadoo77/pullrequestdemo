@@ -2,3 +2,7 @@ rice
 noodles
 sushi
 pasta
+Orange
+Strowberry
+Hamburger
+Kippen
